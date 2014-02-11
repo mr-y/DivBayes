@@ -1,0 +1,13 @@
+ntaxa 20
+
+nspecies 31 66 43 69 35 33 91 14 69 5 25 50 69 15 4 58 1 65 16 40
+ages 45 40 35 27 30 32 49 40 45 50 36 41 40 45 47 46 40 32 39 42
+agessd 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+
+ngen 1000000
+sampfreq 1000
+windowidth 0.03
+
+model d
+
+[comments can be added in square brachets]
